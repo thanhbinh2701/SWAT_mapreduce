@@ -1,1 +1,0 @@
-/tmp/hadoop-binh/mapred/local/job_local1426158442_0001_273667d5-f89f-4272-b635-f78c2ff6a9c8/predict_batch_threaded_local.py
