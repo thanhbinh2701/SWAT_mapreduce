@@ -1,0 +1,13 @@
+{
+  "java.project.referencedLibraries": [
+    "C:/hadoop-3.3.0/share/hadoop/common/*.jar",
+    "C:/hadoop-3.3.0/share/hadoop/common/lib/*.jar",
+    "C:/hadoop-3.3.0/share/hadoop/mapreduce/*.jar",
+    "C:/hadoop-3.3.0/share/hadoop/mapreduce/lib/*.jar",
+    "C:/hadoop-3.3.0/share/hadoop/hdfs/*.jar",
+    "C:/hadoop-3.3.0/share/hadoop/hdfs/lib/*.jar",
+    "C:/hadoop-3.3.0/share/hadoop/yarn/*.jar",
+    "C:/hadoop-3.3.0/share/hadoop/yarn/lib/*.jar"
+  ]
+}
+
